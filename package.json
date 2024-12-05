@@ -1,0 +1,17 @@
+{
+  "name": "changeset-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "npx release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^9.0.3",
+    "release-it": "^17.10.0"
+  }
+}
